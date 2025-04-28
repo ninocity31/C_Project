@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1730891511 source:p:\tpc\exo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1732185495 source:p:\tpc\tp2\exo1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1732183408 source:p:\tpc\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
