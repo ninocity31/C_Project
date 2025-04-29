@@ -2,6 +2,7 @@
 
 ## Partie 1 : Saisie et affichage des notes
 1- Demander à l’utilisateur combien d’étudiants sont à enregistrer (max 50).
+please get fixed
 2- Utiliser un tableau de float pour stocker les notes.
 3- Saisir les notes une par une via scanf.
 4- Afficher les notes saisies.
