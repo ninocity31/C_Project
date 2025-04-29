@@ -3,19 +3,19 @@
 ## Instructions  
 1. Créer une variable `a` du type de votre choix, initialisée à la valeur de votre choix.    
 2. Effectuer les actions suivantes :    
-    - - Afficher sa **valeur**.    
-    - - Afficher son **adresse**.    
-    - - Afficher sa **valeur à l’aide de son adresse**.    
+    - Afficher sa **valeur**.    
+    - Afficher son **adresse**.    
+    - Afficher sa **valeur à l’aide de son adresse**.    
 
 ---  
 
 # Exercice 1 : Échange de Valeurs et Manipulation de Tableaux  
 
 ## Objectifs  
-- - Comprendre le concept d'adresse mémoire.    
-- - Maîtriser la syntaxe des pointeurs en C.    
-- - Apprendre à échanger des valeurs via des pointeurs.    
-- - Manipuler des tableaux à l'aide de l'arithmétique des pointeurs.    
+- Comprendre le concept d'adresse mémoire.    
+- Maîtriser la syntaxe des pointeurs en C.    
+- Apprendre à échanger des valeurs via des pointeurs.    
+- Manipuler des tableaux à l'aide de l'arithmétique des pointeurs.    
 
 ## Instructions  
 
@@ -23,10 +23,10 @@
 1. Créez un nouveau projet dans Code::Blocks.    
 2. Écrivez une fonction `void echanger(int *a, int *b)` qui échange les valeurs de deux entiers en utilisant des pointeurs.    
 3. Dans la fonction `main()` :    
-    - - Déclarez deux variables entières.    
-    - - Affichez leurs valeurs.    
-    - - Appelez la fonction d'échange.    
-    - - Affichez à nouveau leurs valeurs pour vérifier l'échange.    
+    - Déclarez deux variables entières.    
+    - Affichez leurs valeurs.    
+    - Appelez la fonction d'échange.    
+    - Affichez à nouveau leurs valeurs pour vérifier l'échange.    
 
 ### Partie B : Parcours de Tableau  
 1. Déclarez un tableau d'entiers de taille 5.    
