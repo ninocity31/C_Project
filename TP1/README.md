@@ -12,4 +12,3 @@
 2- Faire 1 nouvelle fonction, de type ‘void’ cette fois, pour afficher la meilleure et la pire note, dans
  le même calcul.c
 3- Utiliser ces fonctions pour afficher ces statistiques sur une série de notes exemples.
-
