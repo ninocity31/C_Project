@@ -64,7 +64,7 @@ int main()  {
     printf("Affichage du tableau après inversion :\n");
     afficher_tableau(tableau, 5); // Affiche le tableau après inversion
 
-    
+    system("pause"); // Pause le système pour permettre à l'utilisateur de voir les résultats avant de fermer la fenêtre
     return 0;
 
 
