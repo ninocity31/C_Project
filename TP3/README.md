@@ -2,7 +2,7 @@
 
 ### Exercice 0 : Premiers pas avec les fichiers 
 
-Squelette de code à compléter dans ce repo sous Exo-0/main.c
+Squelette de code à compléter dans ce repo sous squelette
 
 
 ### Exercice 1 : Lecture de fichiers 
