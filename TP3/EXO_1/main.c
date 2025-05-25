@@ -3,16 +3,18 @@
 int main() {
     
     // Déclaration des variables
-    char nom[50], prenom[50];
+    char nom[50], prenom[50], numero[11];
     FILE *fichier = NULL;
     char line[256];
-    char ch;
     
     // Demande des informations à l'utilisateur (nom, prénom)
     printf("Entrez votre nom: ");
     scanf("%49s", nom);
     printf("Entrez votre prénom: ");
     scanf("%49s", prenom);
+    printf("Entrez votre numéro de téléphone: ");
+    scanf("%10s", numero);
+
 
     // Ouverture du fichier
     fichier = fopen("identite.txt", "a+");
@@ -22,7 +24,7 @@ int main() {
     if (fichier != NULL) {
 
         // écriture dans le fichier
-        fprintf(fichier, "Nom: %-15s, Prénom: %-15s\n", nom, prenom);
+        fprintf(fichier, "Nom: %-15s, Prénom: %-15s, Numéro: %-10s\n", nom, prenom, numero);
         printf("Informations enregistrées avec succès!\n");
         
         // lecture du fichier
